@@ -1,0 +1,314 @@
+C:\Users\Diomes\Desktop\Pawnshop\PawnshopUnchuMVC\App_Start\BundleConfig.cs
+RegisterBundles 907
+RegisterBundles 234
+
+C:\Users\Diomes\Desktop\Pawnshop\PawnshopUnchuMVC\App_Start\FilterConfig.cs
+RegisterGlobalFilters 14
+RegisterGlobalFilters 15
+
+C:\Users\Diomes\Desktop\Pawnshop\PawnshopUnchuMVC\App_Start\RouteConfig.cs
+RegisterRoutes 36
+RegisterRoutes 0
+
+C:\Users\Diomes\Desktop\Pawnshop\PawnshopUnchuMVC\Controllers\AdminController.cs
+AdminIndex 80
+AdminIndex 62
+Logout 14
+Logout 15
+AdminRegServices 11
+AdminRegServices 0
+AdminRegServices 21
+AdminRegServices 15
+AdminEditServices 16
+AdminEditServices 15
+AdminEditServices 13
+AdminEditServices 15
+AdminEditServices2 18
+AdminEditServices2 15
+AdminEditServices2 13
+AdminEditServices2 0
+AdminDeleteServices 13
+AdminDeleteServices 15
+AdminDeleteServices 14
+AdminDeleteServices 0
+AdminDeleteServices2 21
+AdminDeleteServices2 15
+AdminDeleteServices2 14
+AdminDeleteServices2 15
+AdminRegInfo 94
+AdminRegInfo 0
+AdminRegInfo 9
+AdminRegInfo 0
+AdminEditInfo 14
+AdminEditInfo 0
+AdminEditInfo 13
+AdminEditInfo 0
+AdminEditInfo2 17
+AdminEditInfo2 0
+AdminEditInfo2 12
+AdminEditInfo2 0
+AdminDeleteInfo 18
+AdminDeleteInfo 0
+AdminDeleteInfo 14
+AdminDeleteInfo 0
+AdminDeleteInfo2 15
+AdminDeleteInfo2 0
+AdminDeleteInfo2 13
+AdminDeleteInfo2 0
+AdminNewSolicitud 12
+AdminNewSolicitud 0
+DetailsUser 9
+DetailsUser 15
+DetailsProduct 11
+DetailsProduct 0
+getImage 56
+getImage 0
+AdminListSolicitud 11
+AdminListSolicitud 15
+CancelSolicitude 12
+CancelSolicitude 15
+ConfirmSolicitude 13
+ConfirmSolicitude 0
+
+C:\Users\Diomes\Desktop\Pawnshop\PawnshopUnchuMVC\Controllers\HomeController.cs
+Index 9
+Index 0
+About 9
+About 0
+Service 9
+Service 0
+Login 12
+Login 0
+Login 45
+Login 0
+Create 21
+Create 0
+Create 24
+Create 15
+
+C:\Users\Diomes\Desktop\Pawnshop\PawnshopUnchuMVC\Controllers\UserController.cs
+Index 23
+Index 15
+UserIndex 21
+UserIndex 0
+Logout 12
+Logout 0
+AdminRegProduct 11
+AdminRegProduct 15
+AdminRegProduct 9
+AdminRegProduct 0
+AdminEditProduct 16
+AdminEditProduct 0
+AdminEditProduct 11
+AdminEditProduct 0
+AdminEditProduct2 16
+AdminEditProduct2 0
+AdminEditProduct2 30
+AdminEditProduct2 15
+getImage 14
+getImage 15
+AdminDeleteProduct 14
+AdminDeleteProduct 15
+AdminDeleteProduct 10
+AdminDeleteProduct 0
+AdminDeleteProduct2 15
+AdminDeleteProduct2 0
+AdminDeleteProduct2 12
+AdminDeleteProduct2 0
+getImageGar 14
+getImageGar 0
+AdminListProduct 19
+AdminListProduct 0
+UserRegInfo 10
+UserRegInfo 0
+UserRegInfo 13
+UserRegInfo 0
+UserEditInfo 17
+UserEditInfo 0
+UserEditInfo 9
+UserEditInfo 0
+UserRegSolicitud 19
+UserRegSolicitud 0
+UserRegSolicitud 13
+UserRegSolicitud 0
+UserRegSolicitud2 11
+UserRegSolicitud2 15
+UserRegSolicitud2 17
+UserRegSolicitud2 15
+UserEditSolicitud 14
+UserEditSolicitud 15
+UserEditSolicitud 11
+UserEditSolicitud 0
+UserEditSolicitud2 14
+UserEditSolicitud2 0
+UserEditSolicitud2 15
+UserEditSolicitud2 0
+UserDelSolicitud 14
+UserDelSolicitud 0
+UserDelSolicitud 12
+UserDelSolicitud 0
+UserDelSolicitud2 19
+UserDelSolicitud2 0
+UserDelSolicitud2 14
+UserDelSolicitud2 0
+UserListSolicitud 15
+UserListSolicitud 0
+UserLastMessages 13
+UserLastMessages 0
+DetailSoli 9
+DetailSoli 0
+
+C:\Users\Diomes\Desktop\Pawnshop\PawnshopUnchuMVC\Models\DB.Context.cs
+OnModelCreating 10
+OnModelCreating 15
+getUserData 11
+getUserData 0
+getUserData 9
+getUserData 0
+sp_getUserData 10
+sp_getUserData 15
+sp_getUserData 10
+sp_getUserData 0
+setUserData 8
+setUserData 0
+setUserData 8
+setUserData 0
+sp_alterdiagram 8
+sp_alterdiagram 0
+sp_creatediagram 9
+sp_creatediagram 0
+sp_dropdiagram 14
+sp_dropdiagram 0
+sp_GetUserLogin 13
+sp_GetUserLogin 0
+sp_GetUserLogin 10
+sp_GetUserLogin 0
+sp_helpdiagramdefinition 15
+sp_helpdiagramdefinition 0
+sp_helpdiagrams 12
+sp_helpdiagrams 0
+sp_renamediagram 11
+sp_renamediagram 15
+sp_upgraddiagrams 11
+sp_upgraddiagrams 0
+sp_GetUserLogin1 10
+sp_GetUserLogin1 0
+sp_GetUserLogin1 13
+sp_GetUserLogin1 0
+deleteBus 14
+deleteBus 0
+deleteGarment 11
+deleteGarment 0
+deleteServ 13
+deleteServ 0
+deleteSolicitude 12
+deleteSolicitude 0
+getDataBus 15
+getDataBus 0
+getDataGar 10
+getDataGar 0
+getDataServ 11
+getDataServ 0
+getDataSolicitude 12
+getDataSolicitude 0
+getDatosUserxSoli 9
+getDatosUserxSoli 0
+getIDUserxSoli 10
+getIDUserxSoli 0
+getNewSolicitudes 10
+getNewSolicitudes 0
+getProductData 8
+getProductData 0
+getProducts 10
+getProducts 0
+getProducXUser 8
+getProducXUser 0
+getServices 11
+getServices 0
+getSolicitudeData 8
+getSolicitudeData 15
+getSolicitudexUser 9
+getSolicitudexUser 0
+setGarmet 10
+setGarmet 0
+setInfoBs 12
+setInfoBs 0
+setInfoUser 11
+setInfoUser 0
+setServName 11
+setServName 0
+setSolicitude 11
+setSolicitude 0
+sp_validarInfo 9
+sp_validarInfo 0
+updateGarmetData 11
+updateGarmetData 0
+updateInfoData 10
+updateInfoData 0
+updateInfoDataUser 11
+updateInfoDataUser 0
+updateServData 10
+updateServData 0
+updateSoliData 11
+updateSoliData 0
+
+C:\Users\Diomes\Desktop\Pawnshop\PawnshopUnchuMVC\Models\DB.cs
+
+C:\Users\Diomes\Desktop\Pawnshop\PawnshopUnchuMVC\Models\DB.Designer.cs
+
+C:\Users\Diomes\Desktop\Pawnshop\PawnshopUnchuMVC\Global.asax.cs
+Application_Start 12
+Application_Start 0
+
+C:\Users\Diomes\Desktop\Pawnshop\PawnshopUnchuMVC\Models\getDataBus_Result.cs
+
+C:\Users\Diomes\Desktop\Pawnshop\PawnshopUnchuMVC\Models\getDataGar_Result.cs
+
+C:\Users\Diomes\Desktop\Pawnshop\PawnshopUnchuMVC\Models\getDataServ_Result.cs
+
+C:\Users\Diomes\Desktop\Pawnshop\PawnshopUnchuMVC\Models\getDataSolicitude_Result.cs
+
+C:\Users\Diomes\Desktop\Pawnshop\PawnshopUnchuMVC\Models\getDatosUserxSoli_Result.cs
+
+C:\Users\Diomes\Desktop\Pawnshop\PawnshopUnchuMVC\Models\getNewSolicitudes_Result.cs
+
+C:\Users\Diomes\Desktop\Pawnshop\PawnshopUnchuMVC\Models\getProductData_Result.cs
+
+C:\Users\Diomes\Desktop\Pawnshop\PawnshopUnchuMVC\Models\getProducts_Result.cs
+
+C:\Users\Diomes\Desktop\Pawnshop\PawnshopUnchuMVC\Models\getProducXUser_Result.cs
+
+C:\Users\Diomes\Desktop\Pawnshop\PawnshopUnchuMVC\Models\getServices_Result.cs
+
+C:\Users\Diomes\Desktop\Pawnshop\PawnshopUnchuMVC\Models\getSolicitudeData_Result.cs
+
+C:\Users\Diomes\Desktop\Pawnshop\PawnshopUnchuMVC\Models\getSolicitudexUser_Result.cs
+
+C:\Users\Diomes\Desktop\Pawnshop\PawnshopUnchuMVC\Models\getUserData_Result.cs
+
+C:\Users\Diomes\Desktop\Pawnshop\PawnshopUnchuMVC\Models\sp_GetUserLogin_Result.cs
+
+C:\Users\Diomes\Desktop\Pawnshop\PawnshopUnchuMVC\Models\sp_helpdiagramdefinition_Result.cs
+
+C:\Users\Diomes\Desktop\Pawnshop\PawnshopUnchuMVC\Models\sp_helpdiagrams_Result.cs
+
+C:\Users\Diomes\Desktop\Pawnshop\PawnshopUnchuMVC\Models\sp_validarInfo_Result.cs
+
+C:\Users\Diomes\Desktop\Pawnshop\PawnshopUnchuMVC\Models\tblSolicitude.cs
+
+C:\Users\Diomes\Desktop\Pawnshop\PawnshopUnchuMVC\Models\ViewModels\listTblUser.cs
+
+C:\Users\Diomes\Desktop\Pawnshop\PawnshopUnchuMVC\Properties\AssemblyInfo.cs
+
+C:\Users\Diomes\Desktop\Pawnshop\PawnshopUnchuMVC\Models\tblBusiness.cs
+
+C:\Users\Diomes\Desktop\Pawnshop\PawnshopUnchuMVC\Models\tblGarment.cs
+
+C:\Users\Diomes\Desktop\Pawnshop\PawnshopUnchuMVC\Models\tblInfoUser.cs
+
+C:\Users\Diomes\Desktop\Pawnshop\PawnshopUnchuMVC\Models\tblServices.cs
+
+C:\Users\Diomes\Desktop\Pawnshop\PawnshopUnchuMVC\Models\tblUser.cs
+
+C:\Users\Diomes\AppData\Local\Temp\.NETFramework,Version=v4.6.1.AssemblyAttributes.cs
+
